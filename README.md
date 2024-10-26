@@ -8,9 +8,9 @@
 
 
 ### Team Members
-- Team Lead: [Abiram Vijay] - [College]
-- Member 2: [Ajoy Antony] - [College]
-- Member 3: [Ashique PG] - [College]
+- Team Lead: Abiram Vijay - SNM Institute of Management & Technology
+- Member 2: Ajoy Antony - SNM Institute of Management & Technology
+- Member 3: Ashique PG - SNM Institute of Management & Technology
 
 ### Project Description
 [2-3 lines about what your project does]
@@ -54,11 +54,15 @@ Final
 
 
 
+https://github.com/user-attachments/assets/0fe121de-4a4f-4339-9f01-d8ad383b6892
+
+
+
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Abiram Vijay: give the idea about project
+- Ajoy Antony:  generate the code 
+- Ashique PG: algorithim about the project
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
